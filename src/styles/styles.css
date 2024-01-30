@@ -1,0 +1,36 @@
+.custom-navbar{
+    background-color: gainsboro;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.custom-navbar img{
+    margin-left: 20px;
+}
+
+.mr-auto{
+    margin-left: 20px;
+}
+
+.cart-widget{
+    margin-left: 60%;
+    position: relative;
+}
+  
+.cart-icon {
+    position: relative; 
+}
+  
+.cart-badge {
+    position: absolute;
+    top: -8px; 
+    right: -8px; 
+    border-radius: 30%;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.modalBody ul {
+    list-style: none;
+}
