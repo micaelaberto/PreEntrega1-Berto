@@ -1,4 +1,4 @@
-// CartWidget.js
+
 
 import React, { useState } from 'react';
 import { FaShoppingCart } from 'react-icons/fa';
